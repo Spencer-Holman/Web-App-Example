@@ -1,0 +1,1 @@
+This is an example of a web application that utilizes ASP.NET Core Web framework and Typescript 
